@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Instructions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Create a new ".env" file with the URL provided in ".env.example".
+2. Open terminal in the frontend folder and rund yarn install.
+3. I the same terminal window you will need to run yarn lint-fix.
+4. Run yarn start.
 
 ## Available Scripts
 
